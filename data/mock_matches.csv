@@ -1,0 +1,6 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,winner
+1,2015,Mumbai,2015-04-08,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians
+2,2015,Delhi,2015-04-12,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals
+3,2016,Bangalore,2016-04-17,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils
+4,2016,Hyderabad,2016-04-20,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad
+5,2016,Mumbai,2016-05-01,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians

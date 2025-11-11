@@ -1,0 +1,16 @@
+match_id,inning,batting_team,bowling_team,over,ball,bowler,batsman_runs,extra_runs,wide_runs,noball_runs
+1,1,Mumbai Indians,Kolkata Knight Riders,1,1,J Bumrah,1,0,0,0
+1,1,Mumbai Indians,Kolkata Knight Riders,1,2,J Bumrah,4,0,0,0
+1,1,Mumbai Indians,Kolkata Knight Riders,1,3,J Bumrah,0,1,1,0
+1,1,Mumbai Indians,Kolkata Knight Riders,1,4,J Bumrah,6,0,0,0
+1,2,Delhi Daredevils,Rajasthan Royals,1,1,A Mishra,2,0,0,0
+1,2,Delhi Daredevils,Rajasthan Royals,1,2,A Mishra,1,1,0,1
+2,1,Delhi Daredevils,Rajasthan Royals,1,1,D Kulkarni,0,0,0,0
+2,1,Delhi Daredevils,Rajasthan Royals,1,2,D Kulkarni,4,0,0,0
+3,1,Royal Challengers Bangalore,Delhi Daredevils,1,1,Z Khan,1,0,0,0
+3,1,Royal Challengers Bangalore,Delhi Daredevils,1,2,Z Khan,0,2,2,0
+4,1,Sunrisers Hyderabad,Kolkata Knight Riders,1,1,S Narine,0,0,0,0
+4,1,Sunrisers Hyderabad,Kolkata Knight Riders,1,2,S Narine,6,0,0,0
+5,1,Mumbai Indians,Rising Pune Supergiant,1,1,Ashwin,4,0,0,0
+5,1,Mumbai Indians,Rising Pune Supergiant,1,2,Ashwin,1,1,1,0
+5,1,Mumbai Indians,Rising Pune Supergiant,1,3,Ashwin,0,0,0,0
